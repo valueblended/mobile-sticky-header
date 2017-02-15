@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valueblended/mobile-sticky-header.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valueblended/mobile-sticky-header/issues"
+  },
+  "homepage": "https://github.com/valueblended/mobile-sticky-header#readme",
+  "dependencies": {
+    "javascript-libs": "^1.0.0",
+    "jquery": "^3.1.1"
+  }
+}
